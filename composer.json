@@ -1,0 +1,30 @@
+{
+  "name": "yarimadam/phpcor",
+  "description": "Simple chain of responsibility implementation written in PHP.",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Halil Tuncay Uner",
+      "email": "tuncayuner@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Yarimadam\\COR\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Yarimadam\\COR\\Test\\": "test/"
+    }
+  },
+  "minimum-stability": "stable",
+  "require": {
+    "php": ">7"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^7.4",
+    "squizlabs/php_codesniffer": "^3.3"
+  }
+}
