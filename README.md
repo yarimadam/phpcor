@@ -1,7 +1,7 @@
 # Chain of Responsibility with PHP
 
 ## Description
-Yarimadam/COR package is a simple chain of responsibility implementation written in PHP. It allows you to define handlers for each contex of your subjects and helps you with better modularizing your conditionals by decreasing cylomatic/npath complexity in your applications.
+Yarimadam/COR package is a simple chain of responsibility implementation written in PHP. It allows you to define handlers for each contex of your subjects and helps you with better modularizing your conditionals by decreasing cyclomatic/npath complexity in your applications.
 
 ## Installation
 
